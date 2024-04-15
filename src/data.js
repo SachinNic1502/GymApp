@@ -76,8 +76,8 @@ export  const reviews = [
     }
   ];
   
-  export const gym =[
-  {
+  export const gym = [
+    {
       id: 1,
       title: 'Can I bring a guest to the club?',
       info:
@@ -114,6 +114,7 @@ export  const reviews = [
         'A bath towel and a small towel are provided at every visit where you will be asked to leave your membership card in exchange. It is recommended to wipe down the equipment after use, so it’s sweat-free for the next user. Do remember to return towels to the designated collection bins/counter after use. Help protect our planet, be environmentally friendly by limiting use to one set per member/guest per visit. ',
     }
   ];
+  
   
   export const gVibes =[
   {
