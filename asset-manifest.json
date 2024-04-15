@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/GymApp/static/css/main.97630410.css",
+    "main.js": "/GymApp/static/js/main.3a313239.js",
+    "reactPlayerYouTube.js": "/GymApp/static/js/reactPlayerYouTube.cd416828.chunk.js",
+    "reactPlayerSoundCloud.js": "/GymApp/static/js/reactPlayerSoundCloud.af6c38e1.chunk.js",
+    "reactPlayerVimeo.js": "/GymApp/static/js/reactPlayerVimeo.a4152f8f.chunk.js",
+    "reactPlayerMux.js": "/GymApp/static/js/reactPlayerMux.3f003ec5.chunk.js",
+    "reactPlayerFacebook.js": "/GymApp/static/js/reactPlayerFacebook.b369492b.chunk.js",
+    "reactPlayerStreamable.js": "/GymApp/static/js/reactPlayerStreamable.6431d5b2.chunk.js",
+    "reactPlayerWistia.js": "/GymApp/static/js/reactPlayerWistia.5810c9fb.chunk.js",
+    "reactPlayerTwitch.js": "/GymApp/static/js/reactPlayerTwitch.6d96db09.chunk.js",
+    "reactPlayerDailyMotion.js": "/GymApp/static/js/reactPlayerDailyMotion.3f64056a.chunk.js",
+    "reactPlayerMixcloud.js": "/GymApp/static/js/reactPlayerMixcloud.ff0a8086.chunk.js",
+    "reactPlayerVidyard.js": "/GymApp/static/js/reactPlayerVidyard.c2285cc6.chunk.js",
+    "reactPlayerKaltura.js": "/GymApp/static/js/reactPlayerKaltura.2116e484.chunk.js",
+    "reactPlayerFilePlayer.js": "/GymApp/static/js/reactPlayerFilePlayer.a71b211d.chunk.js",
+    "reactPlayerPreview.js": "/GymApp/static/js/reactPlayerPreview.4b8a5997.chunk.js",
+    "static/js/453.51b3e59c.chunk.js": "/GymApp/static/js/453.51b3e59c.chunk.js",
+    "index.html": "/GymApp/index.html",
+    "main.97630410.css.map": "/GymApp/static/css/main.97630410.css.map",
+    "main.3a313239.js.map": "/GymApp/static/js/main.3a313239.js.map",
+    "reactPlayerYouTube.cd416828.chunk.js.map": "/GymApp/static/js/reactPlayerYouTube.cd416828.chunk.js.map",
+    "reactPlayerSoundCloud.af6c38e1.chunk.js.map": "/GymApp/static/js/reactPlayerSoundCloud.af6c38e1.chunk.js.map",
+    "reactPlayerVimeo.a4152f8f.chunk.js.map": "/GymApp/static/js/reactPlayerVimeo.a4152f8f.chunk.js.map",
+    "reactPlayerMux.3f003ec5.chunk.js.map": "/GymApp/static/js/reactPlayerMux.3f003ec5.chunk.js.map",
+    "reactPlayerFacebook.b369492b.chunk.js.map": "/GymApp/static/js/reactPlayerFacebook.b369492b.chunk.js.map",
+    "reactPlayerStreamable.6431d5b2.chunk.js.map": "/GymApp/static/js/reactPlayerStreamable.6431d5b2.chunk.js.map",
+    "reactPlayerWistia.5810c9fb.chunk.js.map": "/GymApp/static/js/reactPlayerWistia.5810c9fb.chunk.js.map",
+    "reactPlayerTwitch.6d96db09.chunk.js.map": "/GymApp/static/js/reactPlayerTwitch.6d96db09.chunk.js.map",
+    "reactPlayerDailyMotion.3f64056a.chunk.js.map": "/GymApp/static/js/reactPlayerDailyMotion.3f64056a.chunk.js.map",
+    "reactPlayerMixcloud.ff0a8086.chunk.js.map": "/GymApp/static/js/reactPlayerMixcloud.ff0a8086.chunk.js.map",
+    "reactPlayerVidyard.c2285cc6.chunk.js.map": "/GymApp/static/js/reactPlayerVidyard.c2285cc6.chunk.js.map",
+    "reactPlayerKaltura.2116e484.chunk.js.map": "/GymApp/static/js/reactPlayerKaltura.2116e484.chunk.js.map",
+    "reactPlayerFilePlayer.a71b211d.chunk.js.map": "/GymApp/static/js/reactPlayerFilePlayer.a71b211d.chunk.js.map",
+    "reactPlayerPreview.4b8a5997.chunk.js.map": "/GymApp/static/js/reactPlayerPreview.4b8a5997.chunk.js.map",
+    "453.51b3e59c.chunk.js.map": "/GymApp/static/js/453.51b3e59c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97630410.css",
+    "static/js/main.3a313239.js"
+  ]
+}
